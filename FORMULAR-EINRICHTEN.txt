@@ -1,0 +1,6 @@
+1. Der Formspree-Endpunkt ist eingetragen. Prüfe in Formspree, dass info@nuthem.com als Empfänger verifiziert ist.
+2. Den vollständigen Formular-Endpunkt aus Formspree kopieren, z. B. https://formspree.io/f/xxxxxxxx.
+3. In contact.js in der ersten Zeile mit FORMSPREE_ENDPOINT die Adresse zwischen die Anführungszeichen setzen und speichern.
+4. Dateien in GitHub hochladen. Das Formular ist bis zur gültigen URL deaktiviert. Danach eine echte Testnachricht senden und den Eingang prüfen.
+5. Die Datenschutzerklärung VOR Aktivierung um Formspree, tatsächliche Verarbeitung und etwaige Drittlandübermittlung ergänzen und prüfen lassen. Nicht benötigte sensible Informationen sollten nicht übermittelt werden.
+Hinweis: Die Formularfelder erscheinen auf allen drei Sprachseiten. Sie enthalten keine Ergebnisse des Projekt-Checks.
